@@ -1,6 +1,11 @@
 # Responsive Slider
 
-This is a simple project that showcases a swiper of motorcycles using HTML, CSS, and JavaScript. The project utilizes the SwiperJS library to create a smooth and interactive slider that allows users to browse through the different motorcycle models.
+This is a simple project that showcases a swiper of motorcycles using HTML, CSS, and JavaScript. The project utilizes the SwiperJS library to create a smooth and interactive slider that allows users to browse through the different motorcycle models. This project can be tested through the link https://imklesley.github.io/responsive-slider/
+
+## Images
+<img width="1241" alt="p1" src="https://user-images.githubusercontent.com/26011999/223284587-ef16abe1-bd13-43b4-9a32-a66304f55c9e.png">
+![p2](https://user-images.githubusercontent.com/26011999/223284592-cd320cf7-bc00-4e31-b6a3-943b7e744c30.png)
+
 
 ## Installation
 To use this project, simply download the code or clone the repository to your local machine. You will need to have a text editor or IDE installed to make any changes to the code.
