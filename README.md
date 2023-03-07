@@ -4,7 +4,7 @@ This is a simple project that showcases a swiper of motorcycles using HTML, CSS,
 
 ## Images
 <img width="1241" alt="p1" src="https://user-images.githubusercontent.com/26011999/223284587-ef16abe1-bd13-43b4-9a32-a66304f55c9e.png">
-<img width="1241" alt="p1" src="https://user-images.githubusercontent.com/26011999/223284644-54ee803f-492b-4f1c-8a3f-9e9d2079e6b9.png">
+<img width="1241" alt="p1" src=https://user-images.githubusercontent.com/26011999/223284699-d6353788-6e45-4899-bae0-3edad9b2180e.png">
 
 
 
