@@ -5,8 +5,8 @@ This is a simple project that showcases a swiper of motorcycles using HTML, CSS,
 ## Images
 
 <div align="center">
-<img width="1241" alt="Desktop Version" src="https://user-images.githubusercontent.com/26011999/223284587-ef16abe1-bd13-43b4-9a32-a66304f55c9e.png">
 <img width="300" alt="Mobile Version" src="https://user-images.githubusercontent.com/26011999/223284842-b4a03a65-6822-434a-a30b-d0697c2f312d.png">
+<img width="1241" alt="Desktop Version" src="https://user-images.githubusercontent.com/26011999/223284587-ef16abe1-bd13-43b4-9a32-a66304f55c9e.png">
 </div>
 
 
